@@ -2,8 +2,8 @@
 # NOTE: DO *NOT* EDIT THIS FILE.  IT IS GENERATED.
 # PLEASE UPDATE Dockerfile.txt INSTEAD OF THIS FILE
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-FROM selenium/node-base:3.14.0-helium
-LABEL authors=SeleniumHQ
+FROM selenium/node-base:1.0.0-virgo
+LABEL authors=zforgo
 
 USER root
 
